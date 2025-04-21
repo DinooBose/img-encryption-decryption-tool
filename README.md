@@ -31,7 +31,7 @@ python3 img_encryption_tool.py <decrypt> <encrypted_image> <output_image> <key>
 ## Installation
 1. Clone the repository:
  ```bash
-git clone https://github.com/DinooBose/img-encryption-decryption-tool
+git clone https://github.com/DinooBose/img-encryption-decryption-tool.git
 ```
 2. Install the requirements
 3. Run the tool:
